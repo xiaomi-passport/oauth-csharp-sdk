@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\XiaoMiOauth2\XiaoMiOauth2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\XiaoMiOauth2\XiaoMiOauth2\bin\Debug\XiaoMiOauth2.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\XiaoMiOauth2\XiaoMiOauth2\bin\Debug\XiaoMiOauth2.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\XiaoMiOauth2\XiaoMiOauth2\obj\x86\Debug\XiaoMiOauth2.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\XiaoMiOauth2\XiaoMiOauth2\obj\x86\Debug\XiaoMiOauth2.pdb
